@@ -1,0 +1,37 @@
+[
+  {
+    "name": "markdown-h2",
+    "text": "## {cursor}",
+    "keyword": "mdh2"
+  },
+ {
+    "name": "markdown-h3",
+    "text": "### {cursor}",
+    "keyword": "mdh3"
+  },
+ {
+    "name": "markdown-h4",
+    "text": "#### {cursor}",
+    "keyword": "mdh4"
+  },
+ {
+    "name": "markdown-h5",
+    "text": "##### {cursor}",
+    "keyword": "mdh5"
+  },
+  {
+    "name": "markdown-details",
+    "text": "<details><summary>{cursor}</summary>\n\n```sh\n\n```\n\n</details>",
+    "keyword": "mddetails"
+  },
+  {
+    "name": "markdown-title",
+    "text": "### 概要\n\n{cursor}\n\n### 確認したこと\n\n- XXX\n\n",
+    "keyword": "mdtitle"
+  },
+  {
+    "name": "img-src",
+    "text": "<img src=cursor width=300px>",
+    "keyword": "imgsrc"
+  }
+]
