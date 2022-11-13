@@ -3,14 +3,5 @@
     "name": "snippet-example",
     "text": "### Overview\n\n{cursor}\n\n### Code",
     "keyword": "snippet-example"
-  },
-  {
-    "name": "snippet-example2",
-    "text": [
-        "test",
-        "",
-        "test2"
-    ],
-    "keyword": "snippet-example2"
   }
 ]
