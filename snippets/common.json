@@ -1,0 +1,7 @@
+[
+  {
+    "name": "date-yyyymmdd",
+    "text": "{date \"yyyy/MM/dd\"}",
+    "keyword": "dateymd"
+  }
+]
