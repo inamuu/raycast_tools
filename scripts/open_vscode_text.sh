@@ -2,11 +2,11 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title open-vscode-terminal
+# @raycast.title open_vscode_text
 # @raycast.mode compact
 
 # Optional parameters:
 # @raycast.icon 🤖
 
 cd ${HOME}/Downloads
-code ${HOME}/Downloads/$(date +%Y%m%d).txt
+code -n ${HOME}/Downloads/$(date +%Y%m%d).txt
