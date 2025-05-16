@@ -9,4 +9,4 @@
 # @raycast.icon 🤖
 
 cd ${HOME}/Downloads
-code ${HOME}/Downloads/$(date +%Y%m%d-%H%M%S).txt
+code ${HOME}/Downloads/$(date +%Y%m%d).txt
