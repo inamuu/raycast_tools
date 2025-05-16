@@ -1,3 +1,13 @@
-ec2, ec2
-vpc, vpc/home
-route53, route53
+cloudwatch, cloudwatch/home
+ec2, ec2/home
+ec2/SecurityGroups, ec2/home#SecurityGroups:
+ec2/LoadBalancers, ec2/home#LoadBalancers:
+ecr, ecr/home
+ecs, ecs/v2/clusters
+iam, iam/home
+iam/roles, iam/home#/roles
+iam/policies, iam/home#/policies
+rds, rds/home
+ssm/parameters, systems-manager/parameters
+route53, route53/v2/home
+vpc, vpcconsole/home
