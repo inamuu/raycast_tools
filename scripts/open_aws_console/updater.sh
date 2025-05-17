@@ -16,7 +16,7 @@ NEW_DATA=$(awk -F, '{
 TMP_FILE=$(mktemp)
 
 # GNU sed
-cat ../"${TARGET_SCRIPT}"  >| "${TMP_FILE}"
+cat "${TARGET_SCRIPT}" >| "${TMP_FILE}"
 gsed -i -E "1b; /argument2/ s|(\[).*?|\1${NEW_DATA}\]}|" "${TMP_FILE}"
 
 mv "${TMP_FILE}" "${TARGET_SCRIPT}"
