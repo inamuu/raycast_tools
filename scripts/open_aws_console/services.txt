@@ -8,6 +8,7 @@ iam, iam/home
 iam/roles, iam/home#/roles
 iam/policies, iam/home#/policies
 rds, rds/home
+s3, s3/home
 ssm/parameters, systems-manager/parameters
 route53, route53/v2/home
 vpc, vpcconsole/home
