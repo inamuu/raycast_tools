@@ -13,3 +13,4 @@ s3, s3/home
 ssm/parameters, systems-manager/parameters
 route53, route53/v2/home
 vpc, vpcconsole/home
+waf, wafv2/homev2/home
