@@ -1,3 +1,4 @@
+cloudfront, cloudfront/v4/home#/distributions
 cloudwatch, cloudwatch/home
 ec2, ec2/home
 ec2/SecurityGroups, ec2/home#SecurityGroups:
