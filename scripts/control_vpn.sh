@@ -6,7 +6,7 @@
 # @raycast.mode compact
 # @raycast.needsConfirmation false
 # @raycast.argument1 { "type": "dropdown", "placeholder": "control", "data" : [{"title": "start", "value": "start"},{"title": "stop", "value": "stop"},{"title": "restart", "value": "restart"}] }
-# @raycast.argument2 { "type": "dropdown", "placeholder": "select vpn", "data" : [{"title": "VPN_01_Main", "value": "VPN_01_Main"},{"title": "VPN_01_Sub", "value": "VPN_01_Sub"}] }
+# @raycast.argument2 { "type": "dropdown", "placeholder": "select vpn", "data" : [{"title": "VPN_1", "value": "VPN_1"},{"title": "VPN_2", "value": "VPN_2"},{"title": "VPN_3", "value": "VPN_3"},{"title": "VPN_4", "value": "VPN_4"}] }
 
 # Optional parameters:
 # @raycast.icon 🌐
